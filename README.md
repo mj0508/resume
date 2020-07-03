@@ -19,3 +19,8 @@
 * 깃허브에 이력서 만들기
 + 뭐하지
 - 맛있는거 먹기
+
+추천 사이트 
+<www.hallym.ac.kr>
+ 
+www.hallym.ac.kr
