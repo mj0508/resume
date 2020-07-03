@@ -30,3 +30,10 @@ www.hallym.ac.kr
 [hallym]:http://www.hallym.ac.kr/
 
 [한림][hallym]
+
+
+_italic_  
+*italic*  
+**bold**  
+~~cancer~~  
+++underline++
