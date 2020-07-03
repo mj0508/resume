@@ -36,4 +36,8 @@ _italic_
 *italic*  
 **bold**  
 ~~cancer~~  
-++underline++
+
+
+|과목명|점수|
+|-----|----|
+|GIT|A+|
