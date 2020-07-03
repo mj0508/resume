@@ -40,6 +40,6 @@ _italic_
 
 |과목명|점수|
 |:----:|:----:|
-|<font color = "#ff0000">GIT</font>|A+|
+|<span style="color : red">GIT</span>|A+|
 
 
