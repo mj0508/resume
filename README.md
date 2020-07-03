@@ -45,4 +45,4 @@ _italic_
 
 ![space](107113.jpg)
 
-<img src=107113.jpg width=250 height=150>space</img>
+<img src=107113.jpg width=250 height=150>
